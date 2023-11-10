@@ -1,0 +1,719 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "templateName": "template 1",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633699/templates/Interior-Design-Website-Template-1_c2imcy.jpg",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": "5",
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": "100",
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "product1",
+              "description": "color : black",
+              "category": "men's clothing",
+              "price": "100",
+              "count": "50",
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699637928/jammal_photos/uuyytvo65vlvln6arh5k.webp"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "ahmed",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            },
+            {
+              "author": "Alice Johnson",
+              "text": "Suspendisse hendrerit nisl congue consectetur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "templateName": "template 2",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633699/templates/abbzt6kmkawmpbj7evxx_zkxxyk.jpg",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "ahmed",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "templateName": "template 3",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633698/templates/LucilleSS-7_a09shc.webp",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            },
+            {
+              "author": "Alice Johnson",
+              "text": "Suspendisse hendrerit nisl congue consectetur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "templateName": "template 4",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633698/templates/1600w-RqENfuBH9fA_bvkwel.webp",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            },
+            {
+              "author": "Alice Johnson",
+              "text": "Suspendisse hendrerit nisl congue consectetur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "templateName": "template 5",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633698/templates/asian-restaurant-template-design_23-2150325850_d9fkgw.avif",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": "50",
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+              "id": 1
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "templateName": "template 6",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633699/templates/abbzt6kmkawmpbj7evxx_zkxxyk.jpg",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "templateName": "template 7",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633699/templates/abbzt6kmkawmpbj7evxx_zkxxyk.jpg",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            },
+            {
+              "author": "Alice Johnson",
+              "text": "Suspendisse hendrerit nisl congue consectetur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "templateName": "template 8",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633699/templates/Interior-Design-Website-Template-1_c2imcy.jpg",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            },
+            {
+              "author": "Alice Johnson",
+              "text": "Suspendisse hendrerit nisl congue consectetur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "templateName": "template 9",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633699/templates/Interior-Design-Website-Template-1_c2imcy.jpg",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            },
+            {
+              "author": "Alice Johnson",
+              "text": "Suspendisse hendrerit nisl congue consectetur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "templateName": "template 10",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633698/templates/LucilleSS-7_a09shc.webp",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            },
+            {
+              "author": "Alice Johnson",
+              "text": "Suspendisse hendrerit nisl congue consectetur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "templateName": "template 11",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633698/templates/LucilleSS-7_a09shc.webp",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            },
+            {
+              "author": "Alice Johnson",
+              "text": "Suspendisse hendrerit nisl congue consectetur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "templateName": "ddd 12",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633698/templates/asian-restaurant-template-design_23-2150325850_d9fkgw.avif",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            },
+            {
+              "author": "Alice Johnson",
+              "text": "Suspendisse hendrerit nisl congue consectetur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "templateName": "template 13",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633698/templates/asian-restaurant-template-design_23-2150325850_d9fkgw.avif",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            },
+            {
+              "author": "Alice Johnson",
+              "text": "Suspendisse hendrerit nisl congue consectetur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "templateName": "template 14",
+      "templateImg": "https://res.cloudinary.com/duc04fwdb/image/upload/v1699633698/templates/asian-restaurant-template-design_23-2150325850_d9fkgw.avif",
+      "sections": [
+        {
+          "sectionName": "products",
+          "items": [
+            {
+              "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 109.95,
+              "count": 99,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Casual Premium Slim Fit T-Shirts ",
+              "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+              "category": "men's clothing",
+              "price": 22.3,
+              "count": 200,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            },
+            {
+              "title": "Mens Cotton Jacket",
+              "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+              "category": "men's clothing",
+              "price": 55.99,
+              "count": 80,
+              "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg"
+            }
+          ]
+        },
+        {
+          "sectionName": "testimonies",
+          "items": [
+            {
+              "author": "John Doe",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "author": "Jane Smith",
+              "text": "Pellentesque ac felis tellus. Sed varius, risus ac."
+            },
+            {
+              "author": "Alice Johnson",
+              "text": "Suspendisse hendrerit nisl congue consectetur."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
